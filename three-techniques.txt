@@ -1,0 +1,3 @@
+1. TextTypography is easy when I type in my coding words for any webstie that I've created and I involved the mark element for my website.
+2. Images for any Bootstrap should be able to show how every frame can be moved by direction as showing how were they revealed in the website.
+3. Buttons are required sometimes inside the Bootstrap because each choice can be made if I press the right answer to the button or the other answer to it.
